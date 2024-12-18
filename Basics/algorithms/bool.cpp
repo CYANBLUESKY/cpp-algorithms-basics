@@ -13,4 +13,7 @@ int main()
 	cout << value << endl;
 
 	return 0;
+	
+	// Study about bool
+	// bool에 관한 예제입니다
 }
