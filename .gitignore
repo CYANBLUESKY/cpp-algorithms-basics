@@ -33,3 +33,22 @@ ipch/
 *.publishsettings
 node_modules/
 .DS_Store
+# Ignore Visual Studio temporary files and build results
+*.exe
+*.ilk
+*.obj
+*.log
+*.pch
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.ipdb
+*.iobj
+
+# Ignore intermediate and build directories
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
